@@ -80,6 +80,11 @@
     <h1>Bootstrip 5</h1>
     <button type="button" class="btn btn-primary">Primary</button>
   </div>
+  <br />
+  <div class="bg-yellow-400">
+    <h1>tailwindcss</h1>
+    <button type="button" class="btn bg-pink-500 text-white">Primary</button>
+  </div>
 </template>
 
 <script lang="ts">
